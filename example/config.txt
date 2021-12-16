@@ -1,0 +1,2 @@
+Prefix plugins/GPUAPriori/example
+Plugin GPUAPriori inputfile retail.dat outputfile none
